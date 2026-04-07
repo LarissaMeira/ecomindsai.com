@@ -183,9 +183,7 @@ Each major feature maps to one N8N workflow:
 | **AI Layer** | N8N workflows on Railway — orchestrates LLM calls, prompt chains, and structured output formatting |
 | **Automation** | PostgreSQL triggers (user init, share sync, notifications), DB functions (credit management, access control), Edge Functions (auth proxy) |
 | **Validation** | Zod schemas for form input and webhook response validation |
-| **Deployment** | Lovable (frontend hosting + CI), Supabase Cloud (backend), Railway (N8N) |
+| **Deployment** | Vercel (frontend hosting + CI), Supabase Cloud (backend), Railway (N8N) |
 
 ---
-
-**Project URL**: [https://lovable.dev/projects/46849eaa-5626-4aab-88f7-989f7d820411](https://lovable.dev/projects/46849eaa-5626-4aab-88f7-989f7d820411)
-**Live App**: [https://ecomindsai.lovable.app](https://ecomindsai.lovable.app)
+**Live App**: www.ecomindsai.com
