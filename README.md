@@ -1,2 +1,2 @@
 # ecomindsai.com
-AI-native platform connecting socio-environmental projects with impact capital.
+AI-native platform connecting socio-environmental projects with impact capital. wwww.ecomindsai.com
