@@ -1,5 +1,5 @@
 # Ecominds.AI — Technical Architecture
-
+Live App: www.ecomindsai.com
 ## 1. Platform Overview
 
 ### Problem & Audience
@@ -185,5 +185,4 @@ Each major feature maps to one N8N workflow:
 | **Validation** | Zod schemas for form input and webhook response validation |
 | **Deployment** | Vercel (frontend hosting + CI), Supabase Cloud (backend), Railway (N8N) |
 
----
-**Live App**: www.ecomindsai.com
+
