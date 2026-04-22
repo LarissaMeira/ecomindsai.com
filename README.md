@@ -1,5 +1,10 @@
 # Ecominds.AI — Technical Architecture
-Live App: www.ecomindsai.com
+## 🔗 Links
+
+| | |
+|---|---|
+| 🌐 **Live App** | (www.ecomindsai.com) |
+
 ## 1. Platform Overview
 
 ### Problem & Audience
