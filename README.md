@@ -3,7 +3,7 @@
 
 | | |
 |---|---|
-| 🌐 **Live App** | (www.impacto.ecomindsai.com) |
+| 🌐 **Live App** | (https://impacto.ecomindsai.com) |
 
 ## 1. Platform Overview
 
