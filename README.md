@@ -1,4 +1,4 @@
-# Ecominds.AI — Technical Architecture
+# AI Native platform — Technical Architecture
 ## 🔗 Links
 
 | | |
